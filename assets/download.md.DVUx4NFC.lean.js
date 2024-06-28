@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a4 as o}from"./chunks/framework.C9KBZyuy.js";const f=JSON.parse('{"title":"下载整合包","description":"","frontmatter":{},"headers":[],"relativePath":"download.md","filePath":"download.md"}'),r={name:"download.md"},n=o("",5),s=[n];function d(_,l,c,h,i,p){return t(),e("div",null,s)}const u=a(r,[["render",d]]);export{f as __pageData,u as default};
