@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as i,a4 as e}from"./chunks/framework.DSJK0BtO.js";const v=JSON.parse('{"title":"获取服务器IP","description":"","frontmatter":{},"headers":[],"relativePath":"serverip.md","filePath":"serverip.md"}'),t={name:"serverip.md"},h=e("",9),n=[h];function l(p,d,r,c,o,k){return i(),s("div",null,n)}const u=a(t,[["render",l]]);export{v as __pageData,u as default};
