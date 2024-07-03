@@ -1,1 +1,0 @@
-import{_ as a,c as e,o,a4 as t}from"./chunks/framework.DSJK0BtO.js";const f=JSON.parse('{"title":"联系作者","description":"","frontmatter":{},"headers":[],"relativePath":"send.md","filePath":"send.md"}'),r={name:"send.md"},l=t("",7),n=[l];function c(i,s,m,_,d,h){return o(),e("div",null,n)}const k=a(r,[["render",c]]);export{f as __pageData,k as default};
